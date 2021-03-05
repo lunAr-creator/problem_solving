@@ -40,3 +40,5 @@ def online_count_website(people):
     return len([p for p in people if people[p] == "online"])
 
 print(online_count_website(statuses))
+
+# Difficulty - 2/10
