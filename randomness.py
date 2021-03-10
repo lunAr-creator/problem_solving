@@ -13,6 +13,6 @@ import random
 def random_number():
     return random.randint(1,101)
     
-random_number()
+print(random_number())
 
 # Difficulty - 2/10

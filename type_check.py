@@ -13,7 +13,7 @@ def only_ints(num1, num2):
     else:
         return False
         
-print(only_ints('a', 1))
+print(only_ints(1, 3))
 
 
 # Website short version
